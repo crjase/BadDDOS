@@ -1,3 +1,6 @@
+# Upcoming New Version
+(https://github.com/crjase/BadDDOS/blob/main/Upcoming%20Shizwiz.png)
+
 # BadDDOS
 I named my app BadDDOS because I knew I would never make anything as good as Low Orbital Ion Cannon DDOS.
 Who knows though. Maybe Wurst mc client isn't as bad as it sounds, and so mine hopefully won't be ¯\(ツ)/¯
