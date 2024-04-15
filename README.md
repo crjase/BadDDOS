@@ -1,13 +1,15 @@
 # BadDos
+### Difference Between Words
 DOS  - Denial-of-service (real sexy, mighty, and powerful)<br>
 DDOS - Distributed-Denial-of-service (kinda gay, team bashing a server)
-
-I named my app BadDos, because I knew I'd never make anything as good as Low Orbital Ion Cannon.
+<br><br>
+### What this application can do
+My. This, precious app. BadDOS is really very cool. It is able to run on windows/linnux with a stylish GUI. This amazing denial-of-service application includes a bunch of different tools designed to block a connection to something-weather it be a wifi signal, or even radio (requires an antenna LOL). This tool's got you covered on it all. Hell you can even act like a monkey and spam 100,000 threads of my famous UDP Spamming Mode, all on one computer! Wow, isn't that just amazing?
+<br><br>
+### Why call it BadDOS?
+I named my app BadDos, because I knew I'd never make anything as good as Low Orbital Ion Cannon.<br>
 Who knows though. Maybe Wurst mc client isn't as bad as it sounds, and so mine hopefully won't be ¯\(ツ)/¯
-
-My. This, precious app. BadDOS is really very cool. I made this integratable into a physical device that I'm making, but also able to run on windows/linnux with a GUI.
-This amazing denial-of-service application includes a bunch of different tools designed to block a connection to something, weather it be wifi signals, or even radio. This tool's got you covered on it all.
-
+<br><br>
 # Why make a malicious ddos app? - contrivercial discussion
 Why did I make this? Is it becaues I was bored? Yes.
 If I went to a community of programmers and asked for some help on a bug relating to my nasty ddos script, no one would help.
