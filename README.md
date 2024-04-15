@@ -1,9 +1,12 @@
-# Upcoming Shizwiz
-![Upcoming Shizwiz](https://github.com/crjase/BadDDOS/blob/main/Upcoming%20Shizwiz.png)
+# BadDos
+DOS  - Denial-of-service (real sexy, mighty, and powerful)
+DDOS - Distributed-Denial-of-service (kinda gay, team bashing a server)
 
-# BadDDOS
-I named my app BadDDOS because I knew I would never make anything as good as Low Orbital Ion Cannon DDOS.
+I named my app BadDos, because I knew I'd never make anything as good as Low Orbital Ion Cannon.
 Who knows though. Maybe Wurst mc client isn't as bad as it sounds, and so mine hopefully won't be ¯\(ツ)/¯
+
+My. This, precious app. BadDOS is really very cool. I made this integratable into a physical device that I'm making, but also able to run on windows/linnux with a GUI.
+This amazing denial-of-service application includes a bunch of different tools designed to block a connection to something, weather it be wifi signals, or even radio. This tool's got you covered on it all.
 
 # Why make a malicious ddos app? - contrivercial discussion
 Why did I make this? Is it becaues I was bored? Yes.
