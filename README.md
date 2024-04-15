@@ -4,11 +4,13 @@ DOS  - Denial-of-service (real sexy, mighty, and powerful)<br>
 DDOS - Distributed-Denial-of-service (kinda gay, team bashing a server)
 <br><br>
 ### All supported modes and functions
-UDP Spamming&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Spams sizeable data to a UDP port like a derranged monkey<br>
-TCP Spamming&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Holds open a port and spams sends chunky packets, or even tiny fragmented little ones<br>
-ARP Spoofing&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Pretends to be a device on a local network and sucks up all the traffic so the device can't utilize the network<br>
-MITM Attack&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Pretends to be a device on a local network and captures it's data.<br>
-Upcoming Unnamed Thiny Maggigy  -  I've seen it somewhere on an android spoofer thing. It can capture website data on a device, then send it back as a modified version. So I should be able to modify the content of a webpage; and send it back to the device. It'll definitely be my favorite mode...
+Disclaimer: Keep in mind that this is in development, and currently, the only available modes are the one's coloured ${\textsf{\color{lightgreen}GREEN}}$<br>
+And anything coloured ${\textsf{\color{orange}ORANGE}}$ means it is being worked on...<br><br>
+${\textsf{\color{lightgreen}UDP Spamming}}$  -   Spams sizeable data to a UDP port like a derranged monkey<br><br>
+**TCP Spamming**  -   Holds open a port and spams sends chunky packets, or even tiny fragmented little ones<br><br>
+${\textsf{\color{orange}ARP Spoofing}}$  -   Pretends to be a device on a local network and sucks up all the traffic so the device can't utilize the network<br><br>
+**MITM Attack**   -   Pretends to be a device on a local network and captures it's data.<br><br>
+**Upcoming Unnamed Thiny Maggigy**  -  I've seen it somewhere on an android spoofer thing. It can capture website data on a device, then send it back as a modified version. So I should be able to modify the content of a webpage; and send it back to the device. It'll definitely be my favorite mode...
 <br><br>
 ### What this application can do
 My. This, precious app. BadDOS is really very cool. It is able to run on windows/linnux with a stylish GUI. This amazing denial-of-service application includes a bunch of different tools designed to block a connection to something-weather it be a wifi signal, or even radio (requires an antenna LOL). This tool's got you covered on it all. Hell you can even act like a monkey and spam 100,000 threads of my famous UDP Spamming Mode, all on one computer! Wow, isn't that just amazing?
