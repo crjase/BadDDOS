@@ -1,4 +1,4 @@
-# Upcoming New Version
+# Upcoming Shizwiz
 ![Upcoming Shizwiz](https://github.com/crjase/BadDDOS/blob/main/Upcoming%20Shizwiz.png)
 
 # BadDDOS
