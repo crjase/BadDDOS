@@ -4,8 +4,8 @@ DOS  - Denial-of-service (real sexy, mighty, and powerful)<br>
 DDOS - Distributed-Denial-of-service (kinda gay, team bashing a server)
 <br><br>
 ### All supported modes and functions
-Disclaimer: Keep in mind that this is in development, and currently, the only available modes are the one's coloured ${\textsf{\color{lightgreen}GREEN}}$<br>
-And anything coloured ${\textsf{\color{orange}ORANGE}}$ means it is being worked on...<br><br>
+**Disclaimer:** Keep in mind that this is in development, and currently, the only available modes are<br>
+the one's coloured ${\textsf{\color{lightgreen}GREEN}}$. And anything coloured ${\textsf{\color{orange}ORANGE}}$ means it is being worked on...<br><br>
 ${\textsf{\color{lightgreen}UDP Spamming}}$  -   Spams sizeable data to a UDP port like a derranged monkey<br><br>
 **TCP Spamming**  -   Holds open a port and spams sends chunky packets, or even tiny fragmented little ones<br><br>
 ${\textsf{\color{orange}ARP Spoofing}}$  -   Pretends to be a device on a local network and sucks up all the traffic so the device can't utilize the network<br><br>
