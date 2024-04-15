@@ -1,5 +1,5 @@
 # Upcoming New Version
-!(https://github.com/crjase/BadDDOS/blob/main/Upcoming%20Shizwiz.png)
+![Upcoming Shizwiz](https://github.com/crjase/BadDDOS/blob/main/Upcoming%20Shizwiz.png)
 
 # BadDDOS
 I named my app BadDDOS because I knew I would never make anything as good as Low Orbital Ion Cannon DDOS.
