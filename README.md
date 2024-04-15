@@ -1,3 +1,7 @@
+# Release Status
+Currently, the C/C++ version is being worked on. The old version is downloadable, but that's it for now.
+This new version will be awesome though, but don't expect it to be done in just a few months.
+
 # BadDos
 ### Differences
 DOS  - Denial-of-service (real sexy, mighty, and powerful)<br>
