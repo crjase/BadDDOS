@@ -1,5 +1,5 @@
 # BadDos
-DOS  - Denial-of-service (real sexy, mighty, and powerful)
+DOS  - Denial-of-service (real sexy, mighty, and powerful)<br>
 DDOS - Distributed-Denial-of-service (kinda gay, team bashing a server)
 
 I named my app BadDos, because I knew I'd never make anything as good as Low Orbital Ion Cannon.
