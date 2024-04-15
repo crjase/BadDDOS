@@ -1,6 +1,8 @@
 # Release Status
-Currently, the C/C++ version is being worked on. The old version is downloadable, but that's it for now.
-This new version will be awesome though, but don't expect it to be done in just a few months.
+Currently, the C/C++ version is being worked on. The old version is downloadable, but that's it for now.<br>
+This new version will be awesome though, but don't expect it to be done in just a few months.<br>
+The release will come as soon as I finish the GUI, and am done with the Arp Spoofer script.<br>
+As for the other modes and functions; they will gradually be added whenever I am working on this project.
 
 # BadDos
 ### Differences
